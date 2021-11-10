@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen Seat",
+        "price": 20000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product11.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Saloons' funiture",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Veranda Funiture",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Saloons' funiture",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Indian Style",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product8.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Veranda Funiture",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Cupboard",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product10.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "queen Seat",
+        "price": 40000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product11.jpg"
+            }
+          }
+        }
+      }
+    }
+
+  ]
+}

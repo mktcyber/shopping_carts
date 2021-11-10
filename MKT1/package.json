@@ -1,0 +1,9 @@
+{
+  "name": "mkt1",
+  "version": "0.0.0",
+  "description": "MKT1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
